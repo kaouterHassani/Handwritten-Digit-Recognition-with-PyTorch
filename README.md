@@ -46,4 +46,4 @@ The model achieved the following performance on the MNIST test set:
  * **Test set:** average loss: 0.0001
  * **Accuracy:** 9723/10000 (97%)
     
-You can Check the incorrect predictions made by the model [here]()
+You can Check the incorrect predictions made by the model [here](https://github.com/kaouterHassani/Handwritten-Digit-Recognition-with-PyTorch/tree/main/False_Predictions).
